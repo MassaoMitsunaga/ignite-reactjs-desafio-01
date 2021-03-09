@@ -44,9 +44,6 @@ $ git clone git@github.com:MassaoMitsunaga/ignite-reactjs-desafio-01.git
 # Access the project folder cmd/terminal
 $ cd ignite-reactjs-desafio-01
 
-# go to the server folder
-$ cd server
-
 # install the dependencies
 $ yarn install
 
