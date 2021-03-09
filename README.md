@@ -2,7 +2,7 @@
 
 <h1 align="center">React concepts</h1>
 
-<h3 align="center">Challenge from the first module of Rocketseat`s Ignite program - reactJS trail </h3>
+<h3 align="center">Challenge from the first module of Rocketseat`s Ignite program - ReactJS trail </h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/issues/MassaoMitsunaga/ignite-reactjs-desafio-01" />
