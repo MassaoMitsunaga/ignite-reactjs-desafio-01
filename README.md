@@ -20,6 +20,7 @@
  <a href="#features">Features</a> •
  <a href="#pre-requisites">Pre-requisites</a> • 
  <a href="#tech-stack">Tech Stack</a> • 
+ <a href="#credits">Credits</a> • 
  <a href="#author">Author</a> • 
  <a href="#license">License</a>
 </p>
@@ -61,6 +62,10 @@ The following tools were used in the construction of the project:
 - [TypeScript](https://www.typescriptlang.org/)
 
 > See the file  [package.json](https://github.com/MassaoMitsunaga/ignite-reactjs-desafio-01/blob/main/package.json)
+
+## Credits
+
+Credits to <a href="https://github.com/rocketseat-education">**rocketseat-education**</a> for providing the template for this challenge!
 
 ## Author
 
